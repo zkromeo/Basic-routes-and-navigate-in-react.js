@@ -1,0 +1,53 @@
+.front{
+    
+    width:310px;
+    height: 544px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 1px solid red;
+    background-color:rgb(183, 220, 20);
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+.front input{
+    margin-top: 50px;
+}
+input{
+    padding-left: 40px;
+    border: none;
+    margin-left: 2px;
+}
+.khan{
+ padding-top: 20px;
+ box-sizing: border-box;
+ 
+ 
+}
+.non{
+border: none;
+height: 26px;
+background-color: white;
+}
+p{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: xx-large;
+    
+    
+}
+.button{
+    margin-top: 100px;
+    margin-left: 107px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    color:white;
+    
+    
+ background-color: rgb(226, 43, 98);
+   
+    
+    
+}
